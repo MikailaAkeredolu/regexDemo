@@ -16,8 +16,8 @@ Quantifiers - match one or more occurrences of the pattern to its left
 
 public class RegexDemo {
 
-    public static boolean validateFirstName(String firstName){
-        return firstName.matches("[A-Z]]");
-    }
+//    public static boolean validateFirstName(String firstName){
+//        return firstName.matches("[A-Z]]");
+//    }
 
 }
